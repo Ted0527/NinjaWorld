@@ -18,6 +18,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (Ninja-Project)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="GroupBy" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
